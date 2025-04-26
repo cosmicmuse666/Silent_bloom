@@ -1,0 +1,31 @@
+2025-04-26 17:25:00,533 - INFO - Audio muted
+2025-04-26 17:25:34,919 - INFO - Audio muted
+2025-04-26 17:25:36,866 - INFO - Audio unmuted
+2025-04-26 17:30:51,572 - ERROR - Error getting current volume: Command '['V:\\Code\\Silent_bloom\\nircmd.exe', 'getsysvolume']' timed out after 2 seconds
+2025-04-26 17:31:00,824 - ERROR - Error getting current volume: Command '['V:\\Code\\Silent_bloom\\nircmd.exe', 'getsysvolume']' timed out after 2 seconds
+2025-04-26 17:31:01,809 - INFO - Audio muted (Previous volume: 65535)
+2025-04-26 17:31:11,294 - INFO - Audio unmuted (Previous volume: 65535)
+2025-04-26 17:31:14,977 - ERROR - Error getting current volume: Command '['V:\\Code\\Silent_bloom\\nircmd.exe', 'getsysvolume']' timed out after 2 seconds
+2025-04-26 17:31:16,069 - INFO - Audio muted (Previous volume: 65535)
+2025-04-26 17:31:18,257 - INFO - Audio unmuted (Previous volume: 65535)
+2025-04-26 17:31:22,413 - ERROR - Error getting current volume: Command '['V:\\Code\\Silent_bloom\\nircmd.exe', 'getsysvolume']' timed out after 2 seconds
+2025-04-26 17:31:23,459 - INFO - Audio muted (Previous volume: 65535)
+2025-04-26 17:31:26,495 - INFO - Audio unmuted (Previous volume: 65535)
+2025-04-26 17:31:33,144 - ERROR - Error getting current volume: Command '['V:\\Code\\Silent_bloom\\nircmd.exe', 'getsysvolume']' timed out after 2 seconds
+2025-04-26 17:31:34,145 - INFO - Audio muted (Previous volume: 65535)
+2025-04-26 17:31:41,814 - INFO - Audio unmuted (Previous volume: 65535)
+2025-04-26 17:31:54,948 - ERROR - Error getting current volume: Command '['V:\\Code\\Silent_bloom\\nircmd.exe', 'getsysvolume']' timed out after 2 seconds
+2025-04-26 17:31:55,995 - INFO - Audio muted (Previous volume: 65535)
+2025-04-26 17:31:58,540 - INFO - Audio unmuted (Previous volume: 65535)
+2025-04-26 17:32:56,123 - ERROR - Error getting current volume: Command '['V:\\Code\\Silent_bloom\\nircmd.exe', 'getsysvolume']' timed out after 2 seconds
+2025-04-26 17:32:57,179 - INFO - Audio muted (Previous volume: 65535)
+2025-04-26 17:33:00,814 - INFO - Audio unmuted (Previous volume: 65535)
+2025-04-26 17:33:25,974 - ERROR - Error getting current volume: Command '['V:\\Code\\Silent_bloom\\nircmd.exe', 'getsysvolume']' timed out after 2 seconds
+2025-04-26 17:33:27,064 - INFO - Audio muted (Previous volume: 65535)
+2025-04-26 17:33:29,275 - INFO - Audio unmuted (Previous volume: 65535)
+2025-04-26 17:33:36,763 - ERROR - Error getting current volume: Command '['V:\\Code\\Silent_bloom\\nircmd.exe', 'getsysvolume']' timed out after 2 seconds
+2025-04-26 17:33:37,863 - INFO - Audio muted (Previous volume: 65535)
+2025-04-26 17:37:42,940 - INFO - Application shutting down
+2025-04-26 17:38:08,939 - INFO - Audio muted
+2025-04-26 17:38:12,188 - INFO - Audio unmuted
+2025-04-26 17:38:27,977 - INFO - Application shutting down
