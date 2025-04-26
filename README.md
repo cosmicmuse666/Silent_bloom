@@ -23,7 +23,8 @@ A minimalist Windows system audio mute toggle application built with Python and 
 ### From Release (Recommended)
 1. Download the latest release from the [Releases](https://github.com/YOUR_USERNAME/Silent_bloom/releases) page
 2. Extract the ZIP file
-3. Run `silent_bloom.exe`
+3. Navigate to Dist
+4. Run `silent_bloom.exe`
 
 ### From Source
 1. Clone the repository:
