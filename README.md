@@ -43,15 +43,6 @@ pip install -r requirements.txt
 python silent_bloom.py
 ```
 
-## Building from Source
-
-To create a standalone executable:
-
-```bash
-python -m PyInstaller silent_bloom.spec
-```
-
-The executable will be created in the `dist` folder.
 
 ## Usage
 
